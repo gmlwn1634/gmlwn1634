@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=200&section=header&text=Heeju%20Byeon&fontSize=60&fontAlign=70&fontColor=FFFFFF&animation=twinkling)
   
   <p align="center">
-   <b>~ Hi there ~</b><BR>
    <b>🛠 Tech Stack 🛠</b><BR>
    Techs that I've used at least once<BR>
   

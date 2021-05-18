@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Byeon%20Byeon&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=200&section=header&text=Heeju%20Byeon&fontSize=60&fontAlign=70&fontColor=FFFFFF)
   
   <p align="center">
    <b>~ Hi there ~</b><BR>

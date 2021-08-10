@@ -1,12 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=200&section=header&text=Heeju%20Byeon&fontSize=60&fontAlign=70&fontColor=FFFFFF&animation=twinkling)
   
+<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h5 align="center">Techs that I've used at least once</h5>
 <p align="center">
-   <b>🛠 Tech Stack 🛠</b><BR>
-   Techs that I've used at least once<BR>
-  
-
-<br>
   <a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -39,8 +36,6 @@
   <a><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
-
-
-</p> 
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)

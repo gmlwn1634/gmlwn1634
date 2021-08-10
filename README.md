@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=200&section=header&text=Heeju%20Byeon&fontSize=60&fontAlign=70&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DAF8&height=180&section=header&text=Heeju%20Byeon&fontSize=40&fontAlign=70&fontColor=FFFFFF&animation=twinkling)
   
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <h4 align="center">Techs that I've used at least once</h4>
